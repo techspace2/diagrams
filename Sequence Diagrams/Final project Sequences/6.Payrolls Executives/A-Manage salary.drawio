@@ -1,0 +1,152 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="zk0vuCGNk-6AE0kmyQfN">
+    <mxGraphModel dx="835" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j3fS648X_mj8BUWdza0d-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Calculate Salary&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="349" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="324" y="754" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-2" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="483" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-3" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="649" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="324" y="447" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="334" y="967" as="sourcePoint" />
+            <mxPoint x="332.71" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="488" y="727" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="488" y="486" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="159" y="407" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="967" as="sourcePoint" />
+            <mxPoint x="168.58" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-10" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="149" y="237" width="40" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-11" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="274" y="232" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-12" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="458" y="222" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-13" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="624" y="232" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="654" y="527" width="20" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="817" as="sourcePoint" />
+            <mxPoint x="663.58" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="179" y="486" as="sourcePoint" />
+            <mxPoint x="324" y="486.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="344" y="526.17" as="sourcePoint" />
+            <mxPoint x="489" y="526.3399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="508" y="567" as="sourcePoint" />
+            <mxPoint x="653" y="567.1700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-19" value="Payroll Executives" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="109" y="326" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-20" value="&lt;div&gt;Calculate Salary&lt;/div&gt;&lt;div&gt;UI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="279" y="321" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-21" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Salary Class&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="453" y="326" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-22" value="Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="624" y="326" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-23" value="&lt;div&gt;Enter salary details to&amp;nbsp;&lt;/div&gt;&lt;div&gt;calculate&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="179" y="446" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-24" value="Send request to&amp;nbsp;&lt;div&gt;calculate&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="527" y="523" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654" y="767" as="sourcePoint" />
+            <mxPoint x="508" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="966.3939393939394" as="sourcePoint" />
+            <mxPoint x="664" y="807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-27" value="&lt;div&gt;Calculated Salary&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="522" y="727" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-28" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="154" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-29" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="319" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="967" as="sourcePoint" />
+            <mxPoint x="498" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="674" y="606" as="sourcePoint" />
+            <mxPoint x="674" y="727" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="734" y="607" />
+              <mxPoint x="734" y="727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-32" value="Send request to&amp;nbsp;&lt;div&gt;calculate&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="363" y="486" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-33" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=12;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="783" as="sourcePoint" />
+            <mxPoint x="343" y="783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUSzKy4QNuYDFNXY_o16-34" value="&lt;div&gt;Send Calculated Salary&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="343" y="745" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
